@@ -3,7 +3,7 @@
 using namespace std;
 
 
-// Problem : 	
+// Problem : Nqueens	
 /* Solution : 	 */
 class Solution { 
 
